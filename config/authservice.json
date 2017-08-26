@@ -1,0 +1,15 @@
+{
+    "service": {
+        "name": "authservice",
+        "port": 3001
+    },
+    "databases": [
+        {
+            "name": "akomodb",
+            "host": "localhost",
+            "user": "komodoapp",
+            "password": "'s`B:283eRAz+L-s!",
+            "type": "MYSQL"
+        }
+    ]
+}
